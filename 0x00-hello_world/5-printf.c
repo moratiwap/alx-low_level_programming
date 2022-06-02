@@ -1,3 +1,13 @@
+/*
+ *
+ *  * File: 5-printf.c
+ *
+ *   * Auth: Moratiwa Ndiane
+ *
+ *    */
+
+
+
 #include <stdio.h>
 
 /*
@@ -6,11 +16,9 @@
  *
  *   *                a piece of art," followed by a new line.
  *
- *    *
+ *    * Return: Always 0.
  *
- *     * Return: Always 0.
- *
- *      */
+ *     */
 
 int main(void)
 
