@@ -2,7 +2,13 @@
 
 
 
-
+/*
+ *
+ *  * main - Prints the size of various types based on
+ *
+ *   *        the computer it is compiled and run on..
+ *
+ *    */
 
 int main(void)
 
@@ -23,5 +29,3 @@ int main(void)
 							return (0);
 
 }
-
-
