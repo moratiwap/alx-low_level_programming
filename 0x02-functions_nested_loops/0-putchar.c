@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *prints _putchar, followed by a new line.
- * return: always 0
+ *main -prints _putchar, followed by a new line.
+ * return: always 0 (success)
  */
 int main(void)
 {
@@ -14,5 +14,6 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
+
 return(0);
 }
