@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main - tests function prints if int is pos or neg
+ * main - tests function prints
+ * if int is pos or neg
  * Return: 0
  */
 int main(void)
