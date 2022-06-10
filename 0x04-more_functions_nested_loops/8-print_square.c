@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * print_square - function that prints a square and 
- * newline.
+ * print_square - function that prints a square and newline.
  * @size: input integer
  * Return: Always 0
  */
