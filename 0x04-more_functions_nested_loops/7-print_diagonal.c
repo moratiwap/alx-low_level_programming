@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_diagonal - function that draw diagonal line
- * @n: int input
+ * @n: an int input
  * Return: Always 0
  */
 void print_diagonal(int n)
@@ -12,7 +12,7 @@ void print_diagonal(int n)
 
 	for (i = 0; i < n; i++)
 	{
-		for (spaces = 0; space < i; spaces++)
+		for (spaces = 0; spaces < i; spaces++)
 		{
 			_putchar(' ');
 		}
