@@ -1,6 +1,6 @@
-#include "main.h"
+i#include "main.h"
 /**
- * _srncat - two words
+ * _srncat - function appends the src string to the dest string
  * @dest: pointer to char parameter
  * @src: pointer to char parameter
  * @n: integer parameter
