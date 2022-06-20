@@ -3,6 +3,7 @@
  * @dest: destinantion memory
  * @src: memory area to copy from
  * @n: number of bytes to copy
+ * Return: Pointer to memory area
  */
 char *_memset(char *dest, char *src, unsigned int n)
 {
