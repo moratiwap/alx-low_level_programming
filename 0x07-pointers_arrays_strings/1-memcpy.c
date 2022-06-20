@@ -1,5 +1,5 @@
 /**
- * memcpy - Copy n bytes from memory area src to memory area dest
+ *_memcpy - Copy n bytes from memory area src to memory area dest
  * @dest: Memory area to copy to
  * @src: Memory area to copy from
  * @n: Amount to copy from memory area
