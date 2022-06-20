@@ -5,7 +5,7 @@
  * @s: variable
  * Return: Always 0 (Success)
  */
-char *rit13(char *s)
+char *rot13(char *s)
 {
 	int i = 0, i2 = 0;
 	char alpha[] = "abcdefghijklmnopqrstuvwxyzABCDEFHIJKLMNOPQRSTUVWXYZ";
