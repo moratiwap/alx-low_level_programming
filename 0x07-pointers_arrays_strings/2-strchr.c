@@ -1,7 +1,7 @@
 /**
  * _strchr - Find given char in a string
  * @s: string to search
- * @c: char to search for 
+ * @c: char to search for
  * Return: Pointer to first instance of c
  */
 char *_strchr(char *s, char c)
