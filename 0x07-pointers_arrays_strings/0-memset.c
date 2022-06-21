@@ -1,11 +1,11 @@
 /**
- * _memset - copies memory
- * @dest: destinantion memory
- * @src: memory area to copy from
+ * _memset - fill n bytes og mempry
+ * @s: destinantion memory
+ * @b: byte to fill with
  * @n: number of bytes to copy
  * Return: Pointer to memory area
  */
-char *_memset(char *dest, char *src, unsigned int n)
+char *_memset(char *s, char *b, unsigned int n)
 {
 	unsigned int i;
 
