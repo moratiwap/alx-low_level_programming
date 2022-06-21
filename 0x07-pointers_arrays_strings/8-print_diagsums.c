@@ -12,6 +12,7 @@ void print_diagsums(int *a, int size)
 
 	i = 0;
 	sum1 = sum2 = 0;
+	len = size * size;
 
 	while (i < len)
 	{
