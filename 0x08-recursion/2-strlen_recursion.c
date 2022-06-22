@@ -5,14 +5,14 @@
  */
 int _strlen_recursion(char *s)
 {
-	int 1;
+	int l;
 
-	1 = 0;
+	l = 0;
 
 	if (*s != 0)
 	{
-		1++;
-		return (1 + _strlen_recursion(s + 1));
+		l++;
+		return (l + _strlen_recursion(s + 1));
 	}
-	return (1);
+	return (l);
 }
