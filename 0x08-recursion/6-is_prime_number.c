@@ -14,7 +14,7 @@ int prime_check(int n, int f)
 		return (prime_check(n, f + 1));
 }
 /**
- * is_prime_check - find if given int is prime
+ * is_prime_number - find if given int is prime
  * @n: int to check
  * Return: 1 if prime, 0 otherwise
  */
