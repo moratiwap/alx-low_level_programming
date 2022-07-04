@@ -1,11 +1,10 @@
-#ifndef DOG_H
-#define DOG_H
+#ifndef FILE_DOG
+#define FILE_DOG
 /**
  * struct dog - a dog's basic info
  * @name: First member
  * @age: Second member
- * @owner: Third member
- * Description: Longer description
+ * @owner: pointer to char owner
  */
 struct dog
 {
